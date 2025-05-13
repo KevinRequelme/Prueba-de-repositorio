@@ -35,6 +35,8 @@ def main():
             elif opcion == '5':
                 print("Saliendo del programa.")
                 break
+            elif opcion == '6':
+                 print("Erro")
             else:
                 print("Error: Seleccione una opcion valida (1, 2, 3, 4, 5)")
 
