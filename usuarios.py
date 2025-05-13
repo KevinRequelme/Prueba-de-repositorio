@@ -11,7 +11,7 @@ cuentas = {
     "Ana Lopez": {"contraseña": "5678"},
     "Carlos Gomez": {"contraseña": "abcd"}
 }
-
+# Comentario
 def listar_usuarios():
     if not cuentas:
         return "No hay usuarios registrados."
