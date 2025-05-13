@@ -8,6 +8,10 @@ def menu():
         print("4. Listar usuarios")
         print("5. Salir del programa")
 
+# Este es un comentario de prueba para la modificasion de Git
+
+#Otro Comentario
+
 def main():
         while True:
             menu()
@@ -35,8 +39,7 @@ def main():
             elif opcion == '5':
                 print("Saliendo del programa.")
                 break
-            elif opcion == '6':
-                 print("Erro")
+
             else:
                 print("Error: Seleccione una opcion valida (1, 2, 3, 4, 5)")
 

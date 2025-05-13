@@ -4,6 +4,8 @@ registrar usuarios, eliminar y buscar usuarios utilizando módulos. Para ello,
     ● Define un módulo para manejar las operaciones relacionadas con los usuarios.
     ● Define otro módulo para el programa principal que presente un menú para seleccionar la operación 
     y manejar las entradas del usuario."""
+
+# Este es otro comentario de prueba
 cuentas = {
     "Juan Perez": {"contraseña": "1234"},
     "Ana Lopez": {"contraseña": "5678"},
